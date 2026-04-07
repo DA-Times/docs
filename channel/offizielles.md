@@ -1,5 +1,5 @@
 # Offizielles
-Hier bekommt ihr generelle Informationen und wichtige Links wo DA weit gelten
+Hier bekommt ihr generelle Informationen und wichtige Links die DA weit gelten.
 
 ## DA-Times
 - Unser GitHub: https://github.com/DA-Times
@@ -43,6 +43,6 @@ Hier bekommt ihr generelle Informationen und wichtige Links wo DA weit gelten
 
 - X (formals Twitter) Account der DA-Whatsappgruppe: [@DAGruppe](https://x.com/DAGruppe?s=20) 
 - Instagram Account der DA-Whatsappgruppen: @dagruppen
-- LBH2000 Special [dagilp.de](https://dagilp.de)
+- LBH2000 Special [dagilp.de](https://dagilp.de) Passwort: hufflepuffgewinnt
 - LBAH DC (inoffiziel) [AQfqg5mzS5](https://discord.gg/AQfqg5mzS5)
 
